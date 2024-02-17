@@ -4,8 +4,8 @@ project:
 
 website:
   title: "Bachelor Project"
-  repo-url: https://github.com/quarto-dev/quarto-web
-  issue-url: https://github.com/quarto-dev/quarto-cli/issues/new/choose
+  repo-url: https://github.com/karim101Sales/Bachelor-Project
+  issue-url: https://github.com/karim101Sales/Bachelor-Project/issues/new/choose
   repo-actions: [edit, issue]
   search: true
   page-footer:
